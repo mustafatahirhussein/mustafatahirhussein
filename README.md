@@ -7,8 +7,8 @@
 **Flutter Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Find Flutter Videos on Youtube Channel (https://www.youtube.com/channel/UChGmwxSOEhuCQcrNldV6QzQ)**.<br>
-<img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
+**Find Flutter Videos on Youtube Channel**.<br>
+**Click here 👍**<a src="https://www.youtube.com/channel/UChGmwxSOEhuCQcrNldV6QzQ"><img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white"></a>
 
 **Like to Publish Articles on Medium**.<br>
 <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
