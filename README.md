@@ -4,17 +4,24 @@
 
 **I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter**. :wink:
 
-<img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> **Flutter Engineer**.
+**Flutter Engineer**
+<img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white"> **Uploading Flutter tutorials on my Youtube Channel**.
+**Uploading Flutter tutorials on my Youtube Channel**.
+<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white">
 
-<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white"> **Like to Publish Articles on Medium**.
+**Like to Publish Articles on Medium**.
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=medium&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white"> **Looking to Collaborate on GitHub**.
+**Looking to Collaborate on GitHub**.
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white">
 
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white"> **Passionate on Publishing Packages to (https://pub.dev/)**. 
+**Passionate on Publishing Packages to (https://pub.dev/)**. 
+<img src="https://img.shields.io/badge/-blue?style=flat&logo=dart&logoColor=white">
 
-💬 Open to your Queries!!.
+📫 How to reach me **mustafatahirhussein@gmail.com**
+
+💬 **Open to your Queries!!**.
 
 ![Profile views](https://gpvc.arturio.dev/mustafatahirhussein)  <img src="https://img.shields.io/github/followers/mustafatahirhussein?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -52,16 +59,21 @@
 [<img align="left" alt="Mustafa | Behancw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mustafa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youTube]
+[<img align="left" alt="Mustafa | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][play store]
 
 <br/>
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
+### CheckOut my Medium Articles :loudspeaker: 
 
 [<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)https://medium.com/@mustafatahirhussein
 
 ---
+### CheckOut my Published Dart Package :loudspeaker: 
+
+[<img align="left" alt="Mustafa | Dart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />](https://pub.dev/packages/ready_made_calculator)https://pub.dev/packages/ready_made_calculator
+
 
 Let's connect 👨‍💻
 
@@ -73,3 +85,4 @@ Let's connect 👨‍💻
 [youtube]: https://www.youtube.com/channel/UChGmwxSOEhuCQcrNldV6QzQ
 [linkedin]: https://www.linkedin.com/in/mustafatahirhussein/
 [medium]: https://medium.com/@mustafatahirhussein
+[Play Store]: https://play.google.com/store/apps/developer?id=UniqueDeveloper365
