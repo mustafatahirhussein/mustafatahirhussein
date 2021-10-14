@@ -1,7 +1,3 @@
-### Hey Mustafa here 👋
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60258980/137298753-7f79ee77-173b-49df-b751-06e4fe182c59.png" width="100%" title="Banner" alt="Banner">
 </p>
@@ -61,11 +57,11 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mustafa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Mustafa | Behancw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mustafa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youTube]
 
 <br/>
 
@@ -79,15 +75,13 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+Let's connect 👨‍💻
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
+:star: From [Mustafa](https://github.com/mustafatahirhussein)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
+[website]: https://www.behance.net/mustafatahirhussein/
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
 [linkedin]: https://www.linkedin.com/in/sourav-dey/
 [medium]: https://medium.com/@Souravdey777/
