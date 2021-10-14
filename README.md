@@ -49,7 +49,7 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatahirhussein&show_icons=true&hide_border=true)
 
 
 ### You can find in me in the web 🌍
@@ -64,7 +64,7 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)(https://medium.com/@mustafatahirhussein)
+[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)https://medium.com/@mustafatahirhussein
 
 ---
 
