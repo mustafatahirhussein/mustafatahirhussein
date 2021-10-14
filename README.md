@@ -64,7 +64,7 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)](https://medium.com/@mustafatahirhussein)
+[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)(https://medium.com/@mustafatahirhussein)
 
 ---
 
