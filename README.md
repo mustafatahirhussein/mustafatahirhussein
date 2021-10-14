@@ -57,7 +57,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Mustafa" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Mustafa | Behancw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -69,9 +68,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
+[![Sourav Dey's Blog Cards](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)](https://medium.com/@mustafatahirhussein)
 
 ---
 
@@ -81,7 +78,7 @@ Let's connect 👨‍💻
 
 :star: From [Mustafa](https://github.com/mustafatahirhussein)
 
-[website]: https://www.behance.net/mustafatahirhussein/
-[youtube]: https://youtube.com/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[behance]: https://www.behance.net/mustafatahirhussein/
+[youtube]: https://www.youtube.com/channel/UChGmwxSOEhuCQcrNldV6QzQ
+[linkedin]: https://www.linkedin.com/in/mustafatahirhussein/
+[medium]: https://medium.com/@mustafatahirhussein
