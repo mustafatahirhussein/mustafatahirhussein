@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
 **Passionate on Publishing Packages to (https://pub.dev/)**.<br> 
-<img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white">
 
 📫 How to reach me **mustafatahirhussein@gmail.com**
 
