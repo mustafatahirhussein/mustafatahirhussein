@@ -4,19 +4,17 @@
 
 **I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter**. :wink:
 
-<img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667", height: 20px;width: 20px>
- 
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+<img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> **Flutter Engineer**.
+
+<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white"> **Uploading Flutter tutorials on my Youtube Channel**.
+
+<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white"> **Like to Publish Articles on Medium**.
+
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white"> **Looking to Collaborate on GitHub**.
+
+<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white"> **Passionate on Publishing Packages to (https://pub.dev/)**. 
+
+💬 Open to your Queries!!.
 
 ![Profile views](https://gpvc.arturio.dev/mustafatahirhussein)  <img src="https://img.shields.io/github/followers/mustafatahirhussein?label=Follow" style=" float:left, margin-right:10px" />
 
