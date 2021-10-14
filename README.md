@@ -2,18 +2,18 @@
   <img src="https://user-images.githubusercontent.com/60258980/137382489-bed64aca-0d60-48b6-a025-b2d171c8b780.gif" width="100%" title="Banner" alt="Banner">
 </p>
 
-**I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter**. :wink:
+**Enthusiastic Computer Scientist. Flutter Mobile Software Engineer**. :wink:
 
 **Flutter Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Uploading Flutter tutorials on my Youtube Channel**.<br>
+**Find Flutter Videos on Youtube Channel (https://www.youtube.com/channel/UChGmwxSOEhuCQcrNldV6QzQ)**.<br>
 <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
 
 **Like to Publish Articles on Medium**.<br>
 <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
 
-**Looking to Collaborate on GitHub**.<br>
+**Looking forward to Collaborate on GitHub**.<br>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
 **Passionate on Publishing Packages to (https://pub.dev/)**.<br> 
