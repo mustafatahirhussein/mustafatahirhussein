@@ -51,10 +51,6 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
-
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -68,7 +64,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 ---
 ### You can checkout my blogs :loudspeaker: 
 
-[![Sourav Dey's Blog Cards](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)](https://medium.com/@mustafatahirhussein)
+[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)](https://medium.com/@mustafatahirhussein)
 
 ---
 
