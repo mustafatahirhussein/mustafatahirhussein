@@ -4,20 +4,20 @@
 
 **I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter**. :wink:
 
-**Flutter Engineer**
+**Flutter Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Uploading Flutter tutorials on my Youtube Channel**.
-<img src="https://img.shields.io/badge/-E34F26?style=flat&logo=youtube&logoColor=white">
+**Uploading Flutter tutorials on my Youtube Channel**.<br>
+<img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
 
-**Like to Publish Articles on Medium**.
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=medium&logoColor=white"> 
+**Like to Publish Articles on Medium**.<br>
+<img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
 
-**Looking to Collaborate on GitHub**.
-<img src="https://img.shields.io/badge/-000000?style=flat&logo=github&logoColor=white">
+**Looking to Collaborate on GitHub**.<br>
+<img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
-**Passionate on Publishing Packages to (https://pub.dev/)**. 
-<img src="https://img.shields.io/badge/-blue?style=flat&logo=dart&logoColor=white">
+**Passionate on Publishing Packages to (https://pub.dev/)**.<br> 
+<img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=bootstrap&logoColor=white">
 
 📫 How to reach me **mustafatahirhussein@gmail.com**
 
@@ -29,7 +29,7 @@
 ---
 
 
-### Tech & Tools Preference
+### Technology
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -46,7 +46,7 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-### Other Languages I know
+### Other Languages
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Android-4DB33D?style=flat&logo=python&logoColor=white"> 
 
 ---
