@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/60258980/137298753-7f79ee77-173b-49df-b751-06e4fe182c59.png" width="100%" title="Banner" alt="Banner">
 </p>
 
-I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter. :wink:
+**I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter**. :wink:
+
+<img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667">
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -16,8 +18,6 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
-
-
 ![Profile views](https://gpvc.arturio.dev/mustafatahirhussein)  <img src="https://img.shields.io/github/followers/mustafatahirhussein?label=Follow" style=" float:left, margin-right:10px" />
 
 
@@ -28,8 +28,8 @@ I am  a Mobile Software Engineer currenly getting Experience in Google's Flutter
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
