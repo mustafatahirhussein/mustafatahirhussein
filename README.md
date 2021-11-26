@@ -13,7 +13,7 @@
 **Like to Publish Articles on Medium**.<br>
 <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
 
-**Looking forward to Collaborate on GitHub**.<br>
+**Collaborating on GitHub**.<br>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
 **Passionate on Publishing Packages to (https://pub.dev/)**.<br> 
