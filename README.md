@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/60258980/137382489-bed64aca-0d60-48b6-a025-b2d171c8b780.gif" width="100%" title="Banner" alt="Banner">
+  <img src="https://user-images.githubusercontent.com/60258980/152648310-e4f91cff-2885-4e00-bf89-f2fd7cb2226b.gif" width="100%" title="Banner" alt="Banner">
 </p>
 
 **Enthusiastic Computer Scientist. Flutter Mobile Software Engineer**. :wink:
