@@ -60,6 +60,8 @@
 [<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mustafa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youTube]
 [<img align="left" alt="Mustafa | Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][play store]
+[<img align="left" alt="Mustafa | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mustafa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -90,3 +92,5 @@ Let's connect 👨‍💻
 [linkedin]: https://www.linkedin.com/in/mustafatahirhussein/
 [medium]: https://medium.com/@mustafatahirhussein
 [Play Store]: https://play.google.com/store/apps/developer?id=UniqueDeveloper365
+[facebook]: https://www.facebook.com/mustafatahirofficial/
+[instagram]: https://www.instagram.com/mustafatahir.official/
