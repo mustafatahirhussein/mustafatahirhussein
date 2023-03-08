@@ -1,4 +1,4 @@
-<h1>Enthusiastic Computer Scientist | Mobile Software Engineer</h1>
+<h2>Enthusiastic Computer Scientist | Mobile Software Engineer</h2>
 
 **Flutter Software Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
