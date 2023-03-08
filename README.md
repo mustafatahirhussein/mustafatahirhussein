@@ -1,9 +1,9 @@
-**Enthusiastic Computer Scientist. Flutter Mobile Software Engineer**. :wink:
+<h1>Enthusiastic Computer Scientist | Mobile Software Engineer</h1>
 
 **Flutter Software Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Find Youtube Channel**.<br>
+**Youtube Channel**.<br>
 <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
 
 **Medium Publications**.<br>
