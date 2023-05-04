@@ -65,12 +65,12 @@
 
 
 ---
-### CheckOut Medium Articles :loudspeaker: 
+### Checkout Medium Articles :loudspeaker: 
 
 [<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@mustafatahirhussein/listview-and-singlechildscrollview-widgets-in-flutter-b2d794ed93a8)https://medium.com/@mustafatahirhussein
 
 ---
-### CheckOut Published Dart Package :loudspeaker: 
+### Checkout Published Dart Package :loudspeaker: 
 
 [<img align="left" alt="Mustafa | Dart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg" />](https://pub.dev/packages/ready_made_calculator)https://pub.dev/packages/ready_made_calculator
 
