@@ -19,7 +19,7 @@
 
 💬 **Open to your Queries!!**.
 
-![Profile views](https://gpvc.arturio.dev/mustafatahirhussein)  <img src="https://img.shields.io/github/followers/mustafatahirhussein?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://komarev.com/ghpvc/?username=mustafatahirhussein)  <img src="https://img.shields.io/github/followers/mustafatahirhussein?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
