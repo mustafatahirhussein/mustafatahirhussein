@@ -49,7 +49,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafatahirhussein&show_icons=true&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafatahirhussein)
 
 
 ### You can find me on the web! 🌍
