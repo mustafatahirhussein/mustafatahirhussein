@@ -3,13 +3,13 @@
 **Flutter Software Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Youtube Channel**.<br>
+**Youtuber**.<br>
 <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
 
-**Medium Publications**.<br>
+**Medium Writer**.<br>
 <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
 
-**GitHub Collaboration**.<br>
+**Collaboration on Github**.<br>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
 **Published Packages on (https://pub.dev/)**.<br> 
@@ -25,7 +25,7 @@
 ---
 
 
-### Technology Stack
+### Tech Stack
 
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <img src="https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=61DBFB">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
