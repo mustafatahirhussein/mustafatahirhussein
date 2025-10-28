@@ -59,7 +59,6 @@
 [<img align="left" alt="Mustafa | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youTube]
 [<img align="left" alt="Mustafa | Play Store" src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />][play store]
 [<img align="left" alt="Mustafa | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="Mustafa | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br/>
 
