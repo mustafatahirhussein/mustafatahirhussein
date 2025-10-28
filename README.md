@@ -3,16 +3,16 @@
 **Flutter Software Engineer**<br>
 <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
 
-**Youtuber**.<br>
+**Youtuber**<br>
 <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white">
 
-**Medium Writer**.<br>
+**Medium Writer**<br>
 <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"> 
 
-**Collaboration on Github**.<br>
+**Collaboration on Github**<br>
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
 
-**Published Packages on (https://pub.dev/)**.<br> 
+**Published Packages on (https://pub.dev/)**<br> 
 <img src="https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white">
 
 📫 How to reach me **mustafatahirhussein@gmail.com**
@@ -53,7 +53,7 @@
 
 
 ### You can find me on the web! 🌍
-[<img align="left" alt="Mustafa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="Mustafa | Medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="Mustafa | Behancw" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Mustafa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mustafa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youTube]
